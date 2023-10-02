@@ -1,0 +1,22 @@
+{
+  "name": "pykipsi/akurateco",
+  "description": "description",
+  "type": "library",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "38067",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": "8.*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  }
+}
